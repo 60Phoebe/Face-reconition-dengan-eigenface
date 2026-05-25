@@ -2,11 +2,11 @@
 Face Recognition merupakan teknologi biometrik yang digunakan untuk mengidentifikasi wajah seseorang demi berbagai kepentingan, khususnya keamanan. Program ini melibatkan kumpulan citra wajah yang sudah disimpan pada database lalu program dapat mempelajari bentuk wajah  berdasarkan kumpulan citra wajah tersebut dan mencocokkannya dengan citra yang akan diidentifikasi. 
 Pada projek ini digunakan eigenface yang merupakan metode pengenalan wajah yang menggunakan konsep nilai eigen dan vektor eigen. Metode ini bekerja dengan mengubah kumpulan gambar wajah menjadi sekumpulan vektor, lalu mencari ciri utama wajah menggunakan PCA (Principal Component Analysis). 
 
-#Kelompok 10
+Kelompok 10 
 Nama anggota:
-PHOEBE THEODORE BEATRICE	L0125060
-RESPANANDA AYUNING TYAS	L0125064
-LUCYANA DORA NOVIYANTI	L0125121
+1. PHOEBE THEODORE BEATRICE	L0125060
+2. RESPANANDA AYUNING TYAS	L0125064
+L3. UCYANA DORA NOVIYANTI	L0125121
 
 #Cara menjalankan dan menggunakan aplikasi:
 1.	Download library yang dibutuhkan oleh program dengan menggunakan bash berikut pada command prompt computer. Pastikan library yang sudah di download berada pada path. bash: pip install numpy opencv-python pillow
