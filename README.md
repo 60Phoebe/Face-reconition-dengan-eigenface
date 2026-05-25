@@ -6,7 +6,7 @@ Kelompok 10
 Nama anggota:
 1. PHOEBE THEODORE BEATRICE	L0125060
 2. RESPANANDA AYUNING TYAS	L0125064
-L3. UCYANA DORA NOVIYANTI	L0125121
+3. LUCYANA DORA NOVIYANTI	L0125121
 
 #Cara menjalankan dan menggunakan aplikasi:
 1.	Download library yang dibutuhkan oleh program dengan menggunakan bash berikut pada command prompt computer. Pastikan library yang sudah di download berada pada path. bash: pip install numpy opencv-python pillow
